@@ -40,7 +40,11 @@ Enjoy!
 
 [Follow along on YouTube](https://www.youtube.com/watch?v=fJNZ89Xo_Nk)
 
+<<<<<<< HEAD
 ![Preview of the demo video](assets\img\preview.png)
+=======
+![Preview of the demo video](.\assets\img\preview.JPG)
+>>>>>>> d0682b72343d71a4bfa4d801d6bff27fa1b7d439
 
 ## Code of Conduct
 
