@@ -26,6 +26,6 @@ This is a simple CLI application designed to create a nicely formatted and style
 
 ## License
 
-&copy; 2020 Mike Henson  
+&copy; 2021 Mike Henson  
 
 Licensed under the [MIT](LICENSE.txt) license.
