@@ -1,7 +1,7 @@
 {
-  "name": "unit10hw",
+  "name": "employee-summary",
   "version": "1.0.0",
-  "description": "OOP and testing for week 10 homework",
+  "description": "A CLI application which takes prompts the user with questions about their software engineering team, and renders an HTML page which displays the relevant information in separate cards for each employee.",
   "main": "app.js",
   "directories": {
     "lib": "lib",

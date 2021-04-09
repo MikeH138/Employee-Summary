@@ -16,6 +16,10 @@ This is a simple CLI application designed to create a nicely formatted and style
 ## Usage
 
 
+## Installation
+
+
+
 ## Demo
 
 
