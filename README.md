@@ -32,4 +32,4 @@ This is a simple CLI application designed to create a nicely formatted and style
 
 &copy; 2021 Mike Henson  
 
-Licensed under the [MIT](LICENSE.txt) license.
+Licensed under the [ISC](LICENSE.txt) license.
