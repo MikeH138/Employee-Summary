@@ -38,7 +38,11 @@ Enjoy!
 
 ## Demo
 
+Watch a video demonstration of the installation and usage processes below:
 
+[Watch on YouTube](https://www.youtube.com/watch?v=fJNZ89Xo_Nk)
+
+![Preview of the demo video](./assets/img/preview.jpeg)
 
 ## Code of Conduct
 
