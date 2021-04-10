@@ -6,6 +6,7 @@
 * [Installation](https://github.com/MikeH138/Employee-Summary#installation)
 * [Usage](https://github.com/MikeH138/Employee-Summary#usage)
 * [Demo](https://github.com/MikeH138/Employee-Summary#demo)
+* [Tests](https://github.com/MikeH138/Employee-Summary#tests)
 * [Code of Conduct](https://github.com/MikeH138/Employee-Summary#code-of-conduct)
 * [License](https://github.com/MikeH138/Employee-Summary#license)
 
@@ -41,6 +42,10 @@ Enjoy!
 [Follow along on YouTube](https://www.youtube.com/watch?v=fJNZ89Xo_Nk)
 
 ![Preview of the demo video](./assets/preview.PNG)
+
+## Tests
+
+![Proof of passed tests](./assets/tests.PNG)
 
 ## Code of Conduct
 
